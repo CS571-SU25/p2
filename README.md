@@ -1,4 +1,4 @@
-﻿# Context Clues 🧠📚
+﻿# Context Clues
 
 This is a small React app for practicing reading comprehension in Japanese using context clues.
 
@@ -50,9 +50,8 @@ This is a small React app for practicing reading comprehension in Japanese using
 - React Bootstrap
 - react-router-dom
 - Tiny tokenizer function for Japanese
-- My own logic for blanking out words
 
-## Accessibility ✅
+## Accessibility
 
 - All inputs are labeled
 - You can tab through everything
